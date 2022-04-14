@@ -1,2 +1,1 @@
-# todo-app.github.io
- todoapp
+# todo-list-app.github.io
